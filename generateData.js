@@ -1,3 +1,5 @@
+const { vehicle } = require('faker');
+
 module.exports =  function(){
     var faker = require('faker');
     var lodash = require('lodash');
@@ -7,9 +9,10 @@ module.exports =  function(){
                 id: n,
                 name: faker.name.findName(),
                 company: faker.company.companyName(),
-                city: faker.address.city(),
+                address: [faker.address.country(), faker.address.city(), faker.address.latitude(), faker.address.longitude()],
                 email: faker.internet.email(),
-                avatar: faker.image.avatar()
+                avatar: faker.image.avatar(),
+                car: [faker.vehicle.manufacturer(), faker.vehicle.model(), faker.vehicle.color()]
             }
         })
 
