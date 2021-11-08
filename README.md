@@ -20,4 +20,4 @@ Contributions, issues, and feature requests are welcome!
 Give a ⭐️ if you like this project!
 
 ## Credits
-Thanks to typicode (https://github.com/typicode/json-server "typicode")
+Thanks to typicode ["typicode"](https://github.com/typicode/json-server)
