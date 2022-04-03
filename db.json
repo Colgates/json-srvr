@@ -158,7 +158,31 @@
     ]
   }
 ],
-
+ 
+  "hotels": [
+    {
+      "id": 1,
+      "title": "First",
+      "rating": 4.5,
+      "price": 134,
+      "photoUrl": "https://source.unsplash.com/random/300x300"
+    },
+        {
+      "id": 2,
+      "title": "Second",
+      "rating": 4.5,
+      "price": 134,
+      "photoUrl": "https://source.unsplash.com/random/300x300"
+    },
+        {
+      "id": 3,
+      "title": "Third",
+      "rating": 4.5,
+      "price": 134,
+      "photoUrl": "https://source.unsplash.com/random/300x300"
+    }
+  ],
+  
   "empty": []
   
 }
