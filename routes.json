@@ -1,4 +1,7 @@
 {
     "/products\\?id=:id": "/products/:id",
+    "/products\\?size=:size": "/products/:size",
+    "/products\\?color=:color": "/products/:color",
+    "/products\\?title=:title": "/products/:title",
     "/users\\?id=:id": "/users/:id"
   }
