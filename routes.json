@@ -2,8 +2,3 @@
     "/products\\?id=:id": "/products/:id",
     "/users\\?id=:id": "/users/:id"
   }
-
-//"/api/*": "/$1",
-//"/:resource/:id/show": "/:resource/:id",
-//"/posts/:category": "/posts?category=:category",
-//"/articles\\?id=:id": "/posts/:id"
