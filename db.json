@@ -286,8 +286,9 @@
     {
       "type": "featureImage",
       "data": {
-        "title": "This is a great opportunity for you to buy",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/0167/4484/products/mountains-hat-black-1_740x918_crop_center.jpg?v=1579614739"
+        "id": 2,
+        "title": "Analog: The simplest productivity system",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0167/4484/files/pen-tray-hero_3000x.progressive.jpg?v=1632240794"
       }
     },
     {
