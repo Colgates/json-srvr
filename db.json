@@ -286,7 +286,7 @@
     {
       "type": "featureImage",
       "data": {
-        "id": 2,
+        "id": "2",
         "title": "Analog: The simplest productivity system",
         "imageUrl": "https://cdn.shopify.com/s/files/1/0167/4484/files/pen-tray-hero_3000x.progressive.jpg?v=1632240794"
       }
@@ -297,9 +297,9 @@
         "title": "Just For You",
         "products": [
           {
-            "id": 0,
+            "id": "0",
             "title": "Mountains",
-            "price": 36,
+            "price": "36",
             "size": "large",
             "color": "black",
             "description": "Our tees are carefully cut and sewn by hand in Los Angeles, California and enzyme washed for added softness. The tees are garment dyed which creates subtle variations of color, making each tee truly unique. Each tee is screen printed with water-based ink which makes the print will feel like it's part of the tee itself. The tees are pre-shrunk, they will fit the same on day one as day one hundred.",
@@ -314,9 +314,9 @@
             ]
           },
           {
-            "id": 1,
+            "id": "1",
             "title": "Chunky Knit Beanie",
-            "price": 24,
+            "price": "24",
             "size": "small",
             "color": "black",
             "description": "Our chunky knit beanie is made in NYC by a manufacturer that's been making headwear for over 30 years. Made from a soft dense acrylic, this beanie will keep your head warm but still let it breathe. The beanie can be worn cuffed or uncuffed.",
@@ -331,9 +331,9 @@
             ]
           },
           {
-            "id": 2,
+            "id": "2",
             "title": "Men's Essential Tee",
-            "price": 32,
+            "price": "32",
             "size": "medium",
             "color": "black",
             "description": "The Ugmonk Essential tee is carefully cut and sewn by hand in Los Angeles, California. The tees are then enzyme washed for added softness and garment dyed to our own custom colors. The garment dye process creates subtle variations of color, making each tee truly unique. Since the tees are pre-shrunk, they will fit the same on day one as day one hundred.",
@@ -348,9 +348,9 @@
             ]
           },
           {
-            "id": 3,
+            "id": "3",
             "title": "Women's Essential Tee",
-            "price": 32,
+            "price": "32",
             "size": "extraSmall",
             "color": "white",
             "description": "Our new Women’s Essential Standard fit tee is carefully cut and sewn by hand in Los Angeles, California. The new standard fit is not too boxy, not too slim. We think it’s just right. With small details like custom split-hem, super soft garment dyed fabric, and sleeves that are just the right length, these will be your new daily tees. /nThe tees are then enzyme washed for added softness and garment dyed to our own custom colors. The garment dye process creates subtle variations of color, making each tee truly unique. Since the tees are pre-shrunk, they will fit the same on day one as day one hundred.",
@@ -365,9 +365,9 @@
             ]
           },
           {
-            "id": 4,
+            "id": "4",
             "title": "Women's Essential Tee",
-            "price": 32,
+            "price": "32",
             "size": "large",
             "color": "white",
             "description": "Our new Women’s Essential Standard fit tee is carefully cut and sewn by hand in Los Angeles, California. The new standard fit is not too boxy, not too slim. We think it’s just right. With small details like custom split-hem, super soft garment dyed fabric, and sleeves that are just the right length, these will be your new daily tees. /nThe tees are then enzyme washed for added softness and garment dyed to our own custom colors. The garment dye process creates subtle variations of color, making each tee truly unique. Since the tees are pre-shrunk, they will fit the same on day one as day one hundred.",
@@ -382,9 +382,9 @@
             ]
           },
           {
-            "id": 5,
+            "id": "5",
             "title": "Mountains Baseball Cap",
-            "price": 48,
+            "price": "48",
             "size": "small",
             "color": "white",
             "description": "Vintage style baseball cap featuring our classic Mountains design. Each hat is handcrafted by Ebbets Field Flannels in Seattle, USA. Made from lightweight wool with an adjustable leather strap these hats are great for all-season wear.",
@@ -399,9 +399,9 @@
             ]
           },
           {
-            "id": 10,
+            "id": "10",
             "title": "Mountains",
-            "price": 36,
+            "price": "36",
             "size": "large",
             "color": "black",
             "description": "Our tees are carefully cut and sewn by hand in Los Angeles, California and enzyme washed for added softness. The tees are garment dyed which creates subtle variations of color, making each tee truly unique. Each tee is screen printed with water-based ink which makes the print will feel like it's part of the tee itself. The tees are pre-shrunk, they will fit the same on day one as day one hundred.",
@@ -416,9 +416,9 @@
             ]
           },
           {
-            "id": 11,
+            "id": "11",
             "title": "Chunky Knit Beanie",
-            "price": 24,
+            "price": "24",
             "size": "small",
             "color": "black",
             "description": "Our chunky knit beanie is made in NYC by a manufacturer that's been making headwear for over 30 years. Made from a soft dense acrylic, this beanie will keep your head warm but still let it breathe. The beanie can be worn cuffed or uncuffed.",
@@ -433,9 +433,9 @@
             ]
           },
           {
-            "id": 12,
+            "id": "12",
             "title": "Men's Essential Tee",
-            "price": 32,
+            "price": "32",
             "size": "medium",
             "color": "black",
             "description": "The Ugmonk Essential tee is carefully cut and sewn by hand in Los Angeles, California. The tees are then enzyme washed for added softness and garment dyed to our own custom colors. The garment dye process creates subtle variations of color, making each tee truly unique. Since the tees are pre-shrunk, they will fit the same on day one as day one hundred.",
@@ -450,9 +450,9 @@
             ]
           },
           {
-            "id": 13,
+            "id": "13",
             "title": "Women's Essential Tee",
-            "price": 32,
+            "price": "32",
             "size": "extraSmall",
             "color": "white",
             "description": "Our new Women’s Essential Standard fit tee is carefully cut and sewn by hand in Los Angeles, California. The new standard fit is not too boxy, not too slim. We think it’s just right. With small details like custom split-hem, super soft garment dyed fabric, and sleeves that are just the right length, these will be your new daily tees. /nThe tees are then enzyme washed for added softness and garment dyed to our own custom colors. The garment dye process creates subtle variations of color, making each tee truly unique. Since the tees are pre-shrunk, they will fit the same on day one as day one hundred.",
@@ -467,9 +467,9 @@
             ]
           },
           {
-            "id": 14,
+            "id": "14",
             "title": "Women's Essential Tee",
-            "price": 32,
+            "price": "32",
             "size": "large",
             "color": "white",
             "description": "Our new Women’s Essential Standard fit tee is carefully cut and sewn by hand in Los Angeles, California. The new standard fit is not too boxy, not too slim. We think it’s just right. With small details like custom split-hem, super soft garment dyed fabric, and sleeves that are just the right length, these will be your new daily tees. /nThe tees are then enzyme washed for added softness and garment dyed to our own custom colors. The garment dye process creates subtle variations of color, making each tee truly unique. Since the tees are pre-shrunk, they will fit the same on day one as day one hundred.",
@@ -484,9 +484,9 @@
             ]
           },
           {
-            "id": 15,
+            "id": "15",
             "title": "Mountains Baseball Cap",
-            "price": 48,
+            "price": "48",
             "size": "small",
             "color": "white",
             "description": "Vintage style baseball cap featuring our classic Mountains design. Each hat is handcrafted by Ebbets Field Flannels in Seattle, USA. Made from lightweight wool with an adjustable leather strap these hats are great for all-season wear.",
@@ -509,9 +509,9 @@
         "title": "Just For You",
         "products": [
           {
-            "id": 0,
+            "id": "0",
             "title": "Mountains",
-            "price": 36,
+            "price": "36",
             "size": "large",
             "color": "black",
             "description": "Our tees are carefully cut and sewn by hand in Los Angeles, California and enzyme washed for added softness. The tees are garment dyed which creates subtle variations of color, making each tee truly unique. Each tee is screen printed with water-based ink which makes the print will feel like it's part of the tee itself. The tees are pre-shrunk, they will fit the same on day one as day one hundred.",
@@ -526,9 +526,9 @@
             ]
           },
           {
-            "id": 1,
+            "id": "1",
             "title": "Chunky Knit Beanie",
-            "price": 24,
+            "price": "24",
             "size": "small",
             "color": "black",
             "description": "Our chunky knit beanie is made in NYC by a manufacturer that's been making headwear for over 30 years. Made from a soft dense acrylic, this beanie will keep your head warm but still let it breathe. The beanie can be worn cuffed or uncuffed.",
@@ -543,9 +543,9 @@
             ]
           },
           {
-            "id": 2,
+            "id": "2",
             "title": "Men's Essential Tee",
-            "price": 32,
+            "price": "32",
             "size": "medium",
             "color": "black",
             "description": "The Ugmonk Essential tee is carefully cut and sewn by hand in Los Angeles, California. The tees are then enzyme washed for added softness and garment dyed to our own custom colors. The garment dye process creates subtle variations of color, making each tee truly unique. Since the tees are pre-shrunk, they will fit the same on day one as day one hundred.",
@@ -560,9 +560,9 @@
             ]
           },
           {
-            "id": 3,
+            "id": "3",
             "title": "Women's Essential Tee",
-            "price": 32,
+            "price": "32",
             "size": "extraSmall",
             "color": "white",
             "description": "Our new Women’s Essential Standard fit tee is carefully cut and sewn by hand in Los Angeles, California. The new standard fit is not too boxy, not too slim. We think it’s just right. With small details like custom split-hem, super soft garment dyed fabric, and sleeves that are just the right length, these will be your new daily tees. /nThe tees are then enzyme washed for added softness and garment dyed to our own custom colors. The garment dye process creates subtle variations of color, making each tee truly unique. Since the tees are pre-shrunk, they will fit the same on day one as day one hundred.",
@@ -577,9 +577,9 @@
             ]
           },
           {
-            "id": 4,
+            "id": "4",
             "title": "Women's Essential Tee",
-            "price": 32,
+            "price": "32",
             "size": "large",
             "color": "white",
             "description": "Our new Women’s Essential Standard fit tee is carefully cut and sewn by hand in Los Angeles, California. The new standard fit is not too boxy, not too slim. We think it’s just right. With small details like custom split-hem, super soft garment dyed fabric, and sleeves that are just the right length, these will be your new daily tees. /nThe tees are then enzyme washed for added softness and garment dyed to our own custom colors. The garment dye process creates subtle variations of color, making each tee truly unique. Since the tees are pre-shrunk, they will fit the same on day one as day one hundred.",
@@ -594,9 +594,9 @@
             ]
           },
           {
-            "id": 5,
+            "id": "5",
             "title": "Mountains Baseball Cap",
-            "price": 48,
+            "price": "48",
             "size": "small",
             "color": "white",
             "description": "Vintage style baseball cap featuring our classic Mountains design. Each hat is handcrafted by Ebbets Field Flannels in Seattle, USA. Made from lightweight wool with an adjustable leather strap these hats are great for all-season wear.",
