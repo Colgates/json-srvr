@@ -636,6 +636,23 @@
   ]
 },
 
-  "empty": []
-  
+  "empty": [],
+  "featureSection": [
+    {
+      "headline": "Headline",
+      "url": "https://cdn.shopify.com/s/files/1/0167/4484/products/ls-valet-1-1_591d893f-b9dd-45ee-89a5-ca67d65d21a8_740x918_crop_center.jpg?v=1648736301"
+    },
+    {
+      "headline": "Headline2",
+      "url": "https://cdn.shopify.com/s/files/1/0167/4484/products/IMG_9860_740x918_crop_center.jpg?v=1679060409"
+    },
+    {
+      "headline": "Headline3",
+      "url": "https://cdn.shopify.com/s/files/1/0167/4484/products/ls-7_740x918_crop_center.jpg?v=1637615308"
+    },
+    {
+      "headline": "Headline4",
+      "url": "https://cdn.shopify.com/s/files/1/0167/4484/products/HMM-pen-blk-6_740x918_crop_center.jpg?v=1621369849"
+    }
+  ]
 }
